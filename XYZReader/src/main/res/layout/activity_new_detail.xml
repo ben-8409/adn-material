@@ -29,6 +29,7 @@
                 android:fitsSystemWindows="true"
                 android:src="@drawable/photo_background_protection"
                 app:layout_collapseMode="parallax"
+                android:transitionName="image"
                 android:background="@color/photo_placeholder"/>
 
             <android.support.v7.widget.Toolbar
